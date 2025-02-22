@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import products from './products';
 import ProductCard from './components/ProductCard';
 import './App.css';
-import hiGif from './images/hi.gif'; // Assurez-vous que le chemin est correct
+import hiGif from './images/hi.gif'; 
 
 const firstName = "Anwar";
 
